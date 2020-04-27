@@ -31,8 +31,9 @@ it primarily works through 4 different functions:
 
 One part of www.colliecolliecollie.ninja - a site that stores historical data of prices of items and provides tools for users to be notified of price decreases.
 
-Java: Jsoup + Selenium scraper to get prices/items - PriceSpider - https://github.com/skirillex/PriceSpider
-Python: Flask + uwsgi server - collie_api - https://github.com/skirillex/collie_api
-SQL: Relational database to store data - MySQL
-Dart/Flutter front end
+* Java: Jsoup + Selenium scraper to get prices/items - PriceSpider - https://github.com/skirillex/PriceSpider
+* Python: Flask + uwsgi server - collie_api - https://github.com/skirillex/collie_api
+* SQL: Relational database to store data
+  * MySQL
+* Dart/Flutter front end
 
